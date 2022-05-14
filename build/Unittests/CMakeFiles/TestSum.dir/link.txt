@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/TestSum.dir/TestArgumentParser.cpp.o -o TestSum  ../lib/libgtest_maind.a ../lib/libgtestd.a -lpthread 

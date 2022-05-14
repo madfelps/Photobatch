@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/Photobatch1.dir/Photobatch.cpp.o CMakeFiles/Photobatch1.dir/ArgumentParser.cpp.o CMakeFiles/Photobatch1.dir/Utils.cpp.o -o Photobatch1 

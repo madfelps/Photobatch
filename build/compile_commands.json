@@ -1,0 +1,52 @@
+[
+{
+  "directory": "/home/felipe/vscodeprojects/Photobatch/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/Photobatch.dir/Photobatch.cpp.o -c /home/felipe/vscodeprojects/Photobatch/Photobatch.cpp",
+  "file": "/home/felipe/vscodeprojects/Photobatch/Photobatch.cpp"
+},
+{
+  "directory": "/home/felipe/vscodeprojects/Photobatch/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/Photobatch.dir/ArgumentParser.cpp.o -c /home/felipe/vscodeprojects/Photobatch/ArgumentParser.cpp",
+  "file": "/home/felipe/vscodeprojects/Photobatch/ArgumentParser.cpp"
+},
+{
+  "directory": "/home/felipe/vscodeprojects/Photobatch/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/Photobatch.dir/Utils.cpp.o -c /home/felipe/vscodeprojects/Photobatch/Utils.cpp",
+  "file": "/home/felipe/vscodeprojects/Photobatch/Utils.cpp"
+},
+{
+  "directory": "/home/felipe/vscodeprojects/Photobatch/build/Unittests",
+  "command": "/usr/bin/g++  -I/home/felipe/vscodeprojects/Photobatch/Unittests/googletest/include -I/home/felipe/vscodeprojects/Photobatch -isystem /home/felipe/vscodeprojects/Photobatch/build/_deps/googletest-src/googletest/include -isystem /home/felipe/vscodeprojects/Photobatch/build/_deps/googletest-src/googletest -g -o CMakeFiles/TestArgumentParser.dir/TestArgumentParser.cpp.o -c /home/felipe/vscodeprojects/Photobatch/Unittests/TestArgumentParser.cpp",
+  "file": "/home/felipe/vscodeprojects/Photobatch/Unittests/TestArgumentParser.cpp"
+},
+{
+  "directory": "/home/felipe/vscodeprojects/Photobatch/build/Unittests",
+  "command": "/usr/bin/g++  -I/home/felipe/vscodeprojects/Photobatch/Unittests/googletest/include -I/home/felipe/vscodeprojects/Photobatch -isystem /home/felipe/vscodeprojects/Photobatch/build/_deps/googletest-src/googletest/include -isystem /home/felipe/vscodeprojects/Photobatch/build/_deps/googletest-src/googletest -g -o CMakeFiles/TestArgumentParser.dir/__/ArgumentParser.cpp.o -c /home/felipe/vscodeprojects/Photobatch/ArgumentParser.cpp",
+  "file": "/home/felipe/vscodeprojects/Photobatch/ArgumentParser.cpp"
+},
+{
+  "directory": "/home/felipe/vscodeprojects/Photobatch/build/Unittests",
+  "command": "/usr/bin/g++  -I/home/felipe/vscodeprojects/Photobatch/Unittests/googletest/include -I/home/felipe/vscodeprojects/Photobatch -isystem /home/felipe/vscodeprojects/Photobatch/build/_deps/googletest-src/googletest/include -isystem /home/felipe/vscodeprojects/Photobatch/build/_deps/googletest-src/googletest -g -o CMakeFiles/TestArgumentParser.dir/__/Utils.cpp.o -c /home/felipe/vscodeprojects/Photobatch/Utils.cpp",
+  "file": "/home/felipe/vscodeprojects/Photobatch/Utils.cpp"
+},
+{
+  "directory": "/home/felipe/vscodeprojects/Photobatch/build/_deps/googletest-build/googlemock",
+  "command": "/usr/bin/g++  -I/home/felipe/vscodeprojects/Photobatch/build/_deps/googletest-src/googlemock/include -I/home/felipe/vscodeprojects/Photobatch/build/_deps/googletest-src/googlemock -isystem /home/felipe/vscodeprojects/Photobatch/build/_deps/googletest-src/googletest/include -isystem /home/felipe/vscodeprojects/Photobatch/build/_deps/googletest-src/googletest -g -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++11 -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /home/felipe/vscodeprojects/Photobatch/build/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "file": "/home/felipe/vscodeprojects/Photobatch/build/_deps/googletest-src/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/home/felipe/vscodeprojects/Photobatch/build/_deps/googletest-build/googlemock",
+  "command": "/usr/bin/g++  -isystem /home/felipe/vscodeprojects/Photobatch/build/_deps/googletest-src/googlemock/include -isystem /home/felipe/vscodeprojects/Photobatch/build/_deps/googletest-src/googlemock -isystem /home/felipe/vscodeprojects/Photobatch/build/_deps/googletest-src/googletest/include -isystem /home/felipe/vscodeprojects/Photobatch/build/_deps/googletest-src/googletest -g -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++11 -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /home/felipe/vscodeprojects/Photobatch/build/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "file": "/home/felipe/vscodeprojects/Photobatch/build/_deps/googletest-src/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "/home/felipe/vscodeprojects/Photobatch/build/_deps/googletest-build/googletest",
+  "command": "/usr/bin/g++  -I/home/felipe/vscodeprojects/Photobatch/build/_deps/googletest-src/googletest/include -I/home/felipe/vscodeprojects/Photobatch/build/_deps/googletest-src/googletest -g -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++11 -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /home/felipe/vscodeprojects/Photobatch/build/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "file": "/home/felipe/vscodeprojects/Photobatch/build/_deps/googletest-src/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/home/felipe/vscodeprojects/Photobatch/build/_deps/googletest-build/googletest",
+  "command": "/usr/bin/g++  -isystem /home/felipe/vscodeprojects/Photobatch/build/_deps/googletest-src/googletest/include -isystem /home/felipe/vscodeprojects/Photobatch/build/_deps/googletest-src/googletest -g -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++11 -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /home/felipe/vscodeprojects/Photobatch/build/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "file": "/home/felipe/vscodeprojects/Photobatch/build/_deps/googletest-src/googletest/src/gtest_main.cc"
+}
+]
